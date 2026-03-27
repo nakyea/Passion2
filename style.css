@@ -1,0 +1,22 @@
+.odd {
+    background-color:pink;
+    font-family:Verdana,"DejaVu Sans",sans-serif ;
+}
+#even {
+    font-size: 36px;
+    color: blue;
+}
+.odd1 {
+    background-color:pink;
+    font-family:Verdana,"DejaVu Sans",sans-serif ;
+    font-size: 24px;
+}
+#even2 {
+    background-color: green;
+    font-size: 24px;
+    font-weight: bold;
+}
+.odd2{
+    background-color:pink;
+    font-family:Verdana,"DejaVu Sans",sans-serif ;
+}
